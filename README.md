@@ -1,8 +1,27 @@
-# React + Vite
+# Typing Speed Meter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Typing speed meter is a simple application that measures your typing speed and accuracy.
 
-Currently, two official plugins are available:
+# How to use
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The application was written using Vite + React.
+
+To run, type:
+
+```console
+npm run dev
+```
+
+# Screenshots
+
+![index](https://github.com/noob210/typing-speed-meter/blob/main/screenshots/index.png?raw=true)
+
+![typing test](https://github.com/noob210/typing-speed-meter/blob/main/screenshots/typing_test.png?raw=true)
+
+![result](https://github.com/noob210/typing-speed-meter/blob/main/screenshots/result.png?raw=true)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
